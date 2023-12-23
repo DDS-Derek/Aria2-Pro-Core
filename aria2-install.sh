@@ -5,7 +5,7 @@
 # This is free software, licensed under the GNU General Public License v3.
 # See /LICENSE for more information.
 #
-# https://github.com/P3TERX/Aria2-Pro-Core
+# https://github.com/DDS-Derek/Aria2-Pro-Core
 # File name: aria2-install.sh
 # Description: Install latest version Aria2 Pro Core
 # System Required: GNU/Linux
@@ -26,7 +26,7 @@ INFO="[${Green_font_prefix}INFO${Font_color_suffix}]"
 ERROR="[${Red_font_prefix}ERROR${Font_color_suffix}]"
 
 PROJECT_NAME='Aria2 Pro Core'
-GH_API_URL='https://api.github.com/repos/P3TERX/Aria2-Pro-Core/releases/latest'
+GH_API_URL='https://api.github.com/repos/DDS-Derek/Aria2-Pro-Core/releases/latest'
 BIN_DIR='/usr/local/bin'
 BIN_NAME='aria2c'
 BIN_FILE="${BIN_DIR}/${BIN_NAME}"
